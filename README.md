@@ -1,4 +1,10 @@
-### Hi there 👋
+### 🤠 Hi there! 👋
+
+My name is Afonso from Brazil(🇧🇷). Currently I'm student of computer science (💻) also I'm automation technician (🧰). I'm always looking for new challenges and projects for my career growth (🌱).
+
+***In my routine_*** 
+* _Monday to Friday :_ code(👨‍💻), coffee(☕) and studies(📚)
+* _Saturday and Sunday :_ code(👨‍💻), beer(🍺) and play(🕹️)
 
 <!--
 **alves-a/alves-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
